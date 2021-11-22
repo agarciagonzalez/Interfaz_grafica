@@ -34,19 +34,19 @@
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
                   <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="view/listarUsuario.php">Listar Usuario</a>
+                <a class="nav-link active" aria-current="page" href="View/listarUsuario.php">Listar Usuario</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="view/listarLibro.php">Listar Libro</a>
+                <a class="nav-link active" aria-current="page" href="View/listarLibro.php">Listar Libro</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="view/listarAutor.php">Listar Autor</a>
+                <a class="nav-link active" aria-current="page" href="View/listarAutor.php">Listar Autor</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="view/listarEjemplar.php">Listar Ejemplar</a>
+                <a class="nav-link active" aria-current="page" href="View/listarEjemplar.php">Listar Ejemplar</a>
                 </li> 
                 <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="view/listarPrestamo.php">Listar Prestamos</a>
+                <a class="nav-link active" aria-current="page" href="View/listarPrestamo.php">Listar Prestamos</a>
                 </li>
                   </ul>
         <form class="d-flex">
